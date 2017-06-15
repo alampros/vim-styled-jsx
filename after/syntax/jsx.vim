@@ -1,9 +1,12 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Vim syntax file
 "
-" Language: styled-jsx (CSS in JSX)
+" Language:   styled-jsx (CSS in JSX)
 " Maintainer: Aaron Lampros <alampros@gmail.com>
-" Depends: mxw/vim-jsx
+" URL:        https://github.com/alampros/vim-styled-jsx
+" Depends:    mxw/vim-jsx
+"
+" Based on https://github.com/fleischie/vim-styled-components (thanks!)
 "
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
